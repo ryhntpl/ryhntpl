@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryhntpl
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and ML
-- 💞️ I’m looking to collaborate on Data Science İnternship Oportunities
+- 💞️ I’m looking to for Data Science internships or Jr positions
 - 📫 How to reach me ... helloreytpl@gmail.com
 
 <!---
